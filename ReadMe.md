@@ -1,5 +1,5 @@
 ﻿# CloudGo构建数据库服务
-标签（空格分隔）： go语言学习
+标签： go语言学习
 
 ---
 本部分的目标是使用golangdatabase/sql写出易于阅读、扩展和可维护的数据库服务。重点是掌握经典的 “entity - dao - service” 层次结构编程模型。
