@@ -3,7 +3,9 @@
 
 ---
 本部分的目标是使用golangdatabase/sql写出易于阅读、扩展和可维护的数据库服务。重点是掌握经典的 “entity - dao - service” 层次结构编程模型。
+
 参考博客：[golang构建数据服务](http://blog.csdn.net/pmlpml/article/details/78602290)。
+
 ## 数据库的安装与测试
 1.用docker安装数据库sql:5.7
 
@@ -43,11 +45,7 @@
 
 ![](/图片/4.6.png)
 
-
-
-
-
-##代码运行测试
+## 代码运行测试
 
 hello测试：
 
